@@ -1,0 +1,52 @@
+\begin{thebibliography}{10}
+
+\bibitem{2}
+Mujadded Al~Rabbani Alif.
+\newblock Yolov11: A state-of-the-art object detection model, 2024.
+\newblock Available at \url{https://arxiv.org/pdf/2410.22898}.
+
+\bibitem{5}
+ASL Datasets.
+\newblock American sign language letters dataset, 2024.
+\newblock Available at \url{https://public.roboflow.com/object-detection/american-sign-language-letters/1}.
+
+\bibitem{7}
+Glenn Jocher and Jing Qiu.
+\newblock Ultralytics package, 2024.
+\newblock Available at \url{https://github.com/ultralytics/ultralytics}.
+
+\bibitem{10}
+Okan K{\"o}p{\"u}kl{\"u}, Xiangyu Wei, and Gerhard Rigoll.
+\newblock You only watch once: A unified cnn architecture for real-time spatiotemporal action localization, 2019.
+\newblock Available at \url{https://arxiv.org/pdf/1911.06644}.
+
+\bibitem{8}
+Tsung-Yi Lin, Michael Maire, Serge Belongie, Lubomir Bourdev, Ross Girshick, James Hays, Pietro Perona, Deva Ramanan, C.~Lawrence Zitnick, and Piotr Dollár.
+\newblock Microsoft coco: Common objects in context, 2015.
+
+\bibitem{9}
+Ilya Loshchilov and Frank Hutter.
+\newblock Decoupled weight decay regularization, 2019.
+\newblock Available at \url{https://arxiv.org/pdf/1711.05101}.
+
+\bibitem{1}
+Joseph Redmon and Ali Farhadi.
+\newblock Yolov1 paper, 2016.
+\newblock Available at \url{https://arxiv.org/pdf/1506.02640}.
+
+\bibitem{4}
+Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun.
+\newblock Faster r-cnn paper, 2015.
+\newblock Available at \url{https://arxiv.org/pdf/1506.01497v3}.
+
+\bibitem{6}
+Yuxin Wu, Alexander Kirillov, Francisco Massa, Wan-Yen Lo, and Ross Girshick.
+\newblock Detectron2, 2019.
+\newblock Available at \url{https://github.com/facebookresearch/detectron2}.
+
+\bibitem{3}
+Cheng Zhu, Zhuoyuan Du, and Haoyang Wang.
+\newblock Rt-detr paper, 2023.
+\newblock Available at \url{https://arxiv.org/pdf/2304.08069}.
+
+\end{thebibliography}
